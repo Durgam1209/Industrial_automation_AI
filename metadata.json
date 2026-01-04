@@ -1,0 +1,5 @@
+{
+  "name": "SyntaXer Swarm - Neuro-Symbolic Prototype",
+  "description": "A web-based prototype demonstrating autonomous material handling using neuro-symbolic swarm architecture, featuring real-time pathfinding simulations and performance benchmarking.",
+  "requestFramePermissions": []
+}
