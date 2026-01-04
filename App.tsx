@@ -194,7 +194,7 @@ const App: React.FC = () => {
             © 2026 Pragyan | Team syntaXers | Industrial Automation Prototype
           </div>
           <div className="flex gap-4">
-             <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-400 hover:text-white transition-colors">
+             <a href="https://github.com/Durgam1209/Industrial_automation_AI" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-400 hover:text-white transition-colors">
                <i className="fab fa-github text-lg"></i>
              </a>
           </div>
